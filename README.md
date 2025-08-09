@@ -1,5 +1,5 @@
-# ✨ Starlight Tweaks
-
+# ✨ Starlight Tweaks - Windows Performance Optimizer
+ 
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -359,5 +359,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/starlight-tweaks?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/starlight-tweaks)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/starlight-tweaks)
+
 
 **Last Updated:** January 2025 | **Version:** 1.0.0
